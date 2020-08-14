@@ -14,6 +14,6 @@ Using R's ggmap and maps package, I got info about each state's position on a ma
 ![map_bystate](https://github.com/justinezth/COVID-19-Data-Animated-Visualization/blob/master/map_bystate.png)
 
 ### Number of cases over time by county
-Using the geocode location of counties, and the county level data of COVID, I joined them together and plotted them on a map with scatterplot dots. Then I used gganimate in order to show the animation of cases over time
+Using the geocode location of counties, and the county level data of COVID, I joined them together and plotted them on a map with scatterplot dots. Then I used gganimate in order to show the animation of cases over time.
 
 ![map_animation](https://github.com/justinezth/COVID-19-Data-Animated-Visualization/blob/master/map_animation.gif)
